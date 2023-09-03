@@ -1,2 +1,3 @@
 # Thomas_repo
-Coursera learning purpose 
+Coursera learning purpose
+Pratice how to use  
